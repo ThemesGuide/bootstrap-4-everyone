@@ -5,12 +5,21 @@ Great free tools, resources &amp; themes for Bootstrap lovers
 [Sticky footer (flexbox)](https://www.codeply.com/go/wECEBeWpLO/bootstrap-4-sticky-footer-flexbox)
 [Bootstrap 4 Dashboard](https://www.codeply.com/go/KrUO8QpyXP/bootstrap-4-dashboard)
 
-
-## Questions
+## Questions &amp; Answers
+The grid rows & columns don’t work
+The columns are all full width (xs doesn’t work)
+The columns stack vertically instead of across
+The Navbar doesn’t work (or doesn’t show)
+The Navbar doesn’t toggle
+The Navbar is always vertical
+Vertical alignment or centering doesn’t work
+Float right (pull right) doesn’t work
 
 ## Learning &amp; Tutorials
+[How to Bootstrap](http://bootstrap.themes.guide/how-to.html)
 
 ## Tools
+[Codeply Bootstrap 4](https://codeply.com)
 
 ## Resources
 [Bootstrap Documentation (Official)](https://getbootstrap.com)
